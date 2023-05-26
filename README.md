@@ -45,6 +45,8 @@ After Adjusting class weight(class reweighting) together with using random under
 
 it can be seen that addressing the class imbalance led to high increase in recall value of the positive(minority) class for all the models.For the LightGBM model, the value increases from about 27% to 73%, which means this model is now able to correctly identify potential customers about 73% of the time.
 
+
+
 After hyperparameter tuning using optuna library, the evaluation result on separate test set is given below:
 
 | Metric                      | Value   |
@@ -55,7 +57,6 @@ After hyperparameter tuning using optuna library, the evaluation result on separ
 | Recall (Positive class)     | 0.7284  |
 | F-score (Positive class)    | 0.6027  |
 
-Feel free to customize the table or adjust the column names according to your specific context.
 
 The confusion matrix is given below:
 
