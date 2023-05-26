@@ -57,6 +57,7 @@ After hyperparameter tuning using optuna library, the evaluation result on separ
 | Recall (Positive class)     | 0.7284  |
 | F-score (Positive class)    | 0.6027  |
 
+the final recall value of the positive class is approximately 73%.
 
 The confusion matrix is given below:
 
