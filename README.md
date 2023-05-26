@@ -5,6 +5,7 @@ The goal of this project is to predict if a client will subscribe to a term depo
 
 ## Dataset description
 The Bank Marketing Dataset available on the UCI Machine Learning Repository is a collection of data related to telemarketing campaigns for a Portuguese banking institution. The dataset contains information about customer demographics, previous contact history, economic indicators, and the outcome of the marketing campaign (whether the customer subscribed to a term deposit or not).
+
 Source: [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, In press, http://dx.doi.org/10.1016/j.dss.2014.03.001
 
 ## Models Used
